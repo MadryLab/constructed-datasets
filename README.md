@@ -1,6 +1,6 @@
 # Datasets used in "Adversarial Examples are not Bugs, They Are Features"
 
-Here we provide the datasets to train the main models in the paper "Adversarial Examples are not Bugs, They are Features" ([arXiv](), [Blog]())
+Here we provide the datasets to train the main models in the paper "Adversarial Examples are not Bugs, They are Features" ([arXiv](https://arxiv.org/abs/1905.02175), [Blog](http://gradsci.org/adv))
 
 ## Downloading and loading the datasets
 
@@ -34,7 +34,15 @@ In our paper, we use fairly standard hyperparameters (Appendix C.2) and get the 
 
 - `robust_CIFAR`: 84% accuracy, 48% robust accuracy 
 - `non_robust_CIFAR`: 88% accuracy, 0% robust accuracy
-- `drand_CIFAR`: 88% accuracy, 0% robust accuracy
+- `drand_CIFAR`: 63% accuracy, 0% robust accuracy
 - `ddet_CIFAR`: 44% accuracy, 0% robust accuracy
 
 ## Citation 
+```
+@inproceedings{ilyas2019adversarial,
+  title = {Adversarial Examples are not Bugs, They Are Features},
+  author = {Andrew Ilyas and Shibani Santurkar and Dimitris Tsipras and Logan Engstrom and Brandon Tran and Aleksander Madry},
+  booktitle = {ArXiv preprint arXiv:1905.02175},
+  year = {2019}
+}
+```
