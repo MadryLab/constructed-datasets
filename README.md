@@ -6,7 +6,7 @@ Here we provide the datasets to train the main models in the paper "Adversarial 
 
 The datasets can be downloaded from [this link](http://andrewilyas.com/datasets.tar) and loaded via the following code:
 ```python
-import torch
+import torch as ch
 from torchvision import transforms
 
 train_transform = transforms.Compose([...])
