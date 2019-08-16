@@ -1,6 +1,6 @@
 # Datasets used in "Adversarial Examples Are Not Bugs, They Are Features"
 
-Here we provide the datasets to train the main models in the paper "Adversarial Examples are not Bugs, They are Features" ([arXiv](https://arxiv.org/abs/1905.02175), [Blog](http://gradsci.org/adv))
+Here we provide the datasets to train the main models in the paper "Adversarial Examples are not Bugs, They are Features" ([arXiv](https://arxiv.org/abs/1905.02175), [Blog](http://gradsci.org/adv)).
 
 ## Downloading and loading the datasets
 
