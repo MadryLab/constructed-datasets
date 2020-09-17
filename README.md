@@ -46,3 +46,7 @@ In our paper, we use fairly standard hyperparameters (Appendix C.2) and get the 
   year = {2019}
 }
 ```
+
+## Independent Reproductions 
+### (Not checked for correctness by the paper authors)
+- [ndb796/Pytorch-Adversarial-Training-CIFAR](https://github.com/ndb796/Pytorch-Adversarial-Training-CIFAR)
